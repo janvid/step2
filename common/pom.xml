@@ -19,11 +19,11 @@
   <name>STEP2 Common</name>
   <url>http://code.google.com/p/step2</url>
   <inceptionYear>2008</inceptionYear>
-  <version>1-SNAPSHOT</version>
+  <version>1-JANRAIN-SNAPSHOT</version>
   <parent>
     <artifactId>step2-parent</artifactId>
     <groupId>com.google.step2</groupId>
-    <version>1-SNAPSHOT</version>
+    <version>1-JANRAIN-SNAPSHOT</version>
   </parent>
   <groupId>com.google.step2</groupId>
   <artifactId>step2-common</artifactId>

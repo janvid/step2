@@ -20,7 +20,7 @@
   <inceptionYear>2008</inceptionYear>
   <groupId>com.google.step2</groupId>
   <artifactId>step2-parent</artifactId>
-  <version>1-SNAPSHOT</version>
+  <version>1-JANRAIN-SNAPSHOT</version>
   <packaging>pom</packaging>
   <prerequisites>
     <maven>2.0.6</maven>
